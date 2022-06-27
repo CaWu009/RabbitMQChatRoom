@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Chatroom:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Chatroom_jar</output-path>
+    <root id="archive" name="DRS.jar">
+      <element id="module-output" name="DRS" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/slf4j-simple-1.7.26.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/amqp-client-5.7.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/slf4j-api-1.7.26.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
